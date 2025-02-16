@@ -1,7 +1,7 @@
-# HD_Brapa
+# Brassica rapa HD analysis
 Compound Heat-Drought Stress in Brassica rapa
 
-# Codes for Brassica rapa HD analysis (codes written by Xiaomei Wu, Donghui Hu, and Rachelle R.Q. Lee)
+# Codes written by Xiaomei Wu, Donghui Hu, and Rachelle R.Q. Lee
 
 ## 1. WGCNA analysis of individual stress-responsive gene groups
 1. Identify WGCNA modules (Supplemental Figure S8)
