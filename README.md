@@ -4,7 +4,7 @@ Compound Heat-Drought Stress in Brassica rapa
 ## Codes for Brassica rapa HD analysis (codes written by Xiaomei Wu, Donghui Hu, and Rachelle R.Q. Lee)
 ## 0. input and output data downloaded from drive
 1. https://drive.google.com/file/d/1vwN0ZgjbWx3yT6_ucGgSQWkRp6-zualY/view?usp=drive_link
-   
+
 ## 1. WGCNA analysis of individual stress-responsive gene groups
 1. Identify WGCNA modules (Supplemental Figure S8)
 1. Plot gene expression profiles (Figures 4A-C, 7C and Supplemental Figure S9)
@@ -15,16 +15,19 @@ Compound Heat-Drought Stress in Brassica rapa
 1. keyGRN
 1. hormoneGRN (Figure 7B)
 
-## 3. Network analysis (https://github.com/rlrq/HDstress)
+## 3. Network analysis
+1. From https://github.com/rlrq/HDstress
 1. Network dispersion analysis for GRN, keyGRN, and TF-TF network (Figure 5 and Supplemental Figure S14)
 1. Master regulatory nodes analysis (Figure 6 and Supplemental Figure S15)
 
-## 4. Modified GO enrichment analysis of BLAST-mappable and -unmappable genes to A. thaliana orthologues (https://github.com/rlrq/HDstress)
+## 4. Modified GO enrichment analysis of BLAST-mappable and -unmappable genes to A. thaliana orthologues
+1. From https://github.com/rlrq/HDstress
 1. Supplemental Figures S5: Gene counts of GO terms mapped via orthologous families with different normalisation methods against counts of GO terms mapped via A. thaliana orthologue identified by BLAST.
 1. Supplemental Figure S6: GO enrichment analysis of all B. rapa genes with different mapping methods and universes.
 1. Supplemental Figure S7: GO enrichment analysis of treatment DEGs (HD-responsible genes) with different mapping methods and universes.
 
-## 5. Identify ancestral GO terms (https://github.com/rlrq/HDstress)
+## 5. Identify ancestral GO terms
+1. From https://github.com/rlrq/HDstress
 1. Figure 3B and 4D, Supplemental Figure S3 and S11: GO hierarchy containing GO terms of interest by mapping higher level GO terms to lower level terms
 
 ## 6. Detect putative cis-regulatory elements (pCRE)
