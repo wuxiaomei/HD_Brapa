@@ -1,7 +1,7 @@
 # Brassica rapa HD analysis
 Compound Heat-Drought Stress in Brassica rapa
 
-## Codes written by Xiaomei Wu, Donghui Hu, and Rachelle R.Q. Lee
+## Codes for Brassica rapa HD analysis (codes written by Xiaomei Wu, Donghui Hu, and Rachelle R.Q. Lee)
 
 ## 1. WGCNA analysis of individual stress-responsive gene groups
 1. Identify WGCNA modules (Supplemental Figure S8)
@@ -11,6 +11,7 @@ Compound Heat-Drought Stress in Brassica rapa
 ## 2. Reconstruct the Gene regulatory network (GRN), keyGRN and TF-TF network
 1. GRN and TF-TF GRN (Supplemental Figure S13)
 1. keyGRN
+1. hormoneGRN (Figure 7B)
 
 ## 3. Network analysis (https://github.com/rlrq/HDstress)
 1. Network dispersion analysis for GRN, keyGRN, and TF-TF network (Figure 5 and Supplemental Figure S14)
