@@ -35,6 +35,5 @@ Compound Heat-Drought Stress in Brassica rapa
     1. predict_pcre.fisher.R: R script to do fisher.test and adjust p-values
 
 ## 7. Other plots
-1. Figure 1D and E: PCA analysis of 48 samples
 1. Figure 3A: Significant GO terms for the four HD-responsive gene groups under treatment comparisons and accession comparisons
 1. Supplemental Figure 4: Mapped and unmapped genes by BLAST to A. thaliana genes
