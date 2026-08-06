@@ -10,7 +10,7 @@ Compound Heat-Drought Stress in Brassica rapa
 1. Plot gene expression profiles (Figures 4a-c, 7b and Supplemental Figure S10)
 1. GO enrichment analysis of each module (Figure 4d, Supplemental Figure S13)
 
-## 2. Reconstruct the gene regulatory network (GRN), keyGRN and TF-TF network
+## 2. Reconstruct gene regulatory networks (GRNs)
 1. GRN (Figure 5a) and TF-TF GRN (Supplemental Figure S14)
 1. keyGRN (Figure 5b)
 1. hormoneGRN (Supplemental Figure S19)
