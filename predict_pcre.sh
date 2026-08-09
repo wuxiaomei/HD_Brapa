@@ -27,7 +27,7 @@ mkdir output_pCRE/annot/reg_BraA01g023140.3.5C_targ
 ## input/reg_motifsDB.list is a combination of list files under 'MEMEsuit/motif_database'
 cat ~/software/MEMEsuite/motif_databases/list.arabd  \
 	~/software/MEMEsuite/motif_databases/list.cisbp2_ath  \
-	~/software/MEMEsuite/motif_databases/list.jaspar_plants  \
+	~/software/MEMEsuite/motif_databases/list.jaspar_plants  \jjj
  > input/reg_motifsDB.list
 
 ## provid the absolute directory of 'MEMEsuit/motif_database'
