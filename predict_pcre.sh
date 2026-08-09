@@ -34,4 +34,4 @@ cat ~/software/MEMEsuite/motif_databases/list.arabd  \
 perl predict_pcre.pl --annotate_pCRE    \
 	output_pCRE/annot/  reg_BraA01g023140.3.5C_targ  \
     input/reg_motifsDB.list  \
-	~/software/MEMEsuite/motif_databases/
+	~/software/MEMEsuite/motif_databases/j
