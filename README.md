@@ -7,7 +7,7 @@ Compound Heat-Drought Stress in Brassica rapa
 
 ## 1. WGCNA analysis of individual stress-responsive gene groups
 1. Identify WGCNA modules (Supplemental Figure S9)
-1. Plot gene expression profiles (Figures 4a-c, 7b and Supplemental Figure S10)
+1. Plot gene expression profiles (Figures 4a-c, 6b and Supplemental Figure S10)
 1. GO enrichment analysis of each module (Figure 4d, Supplemental Figure S13)
 
 ## 2. Reconstruct gene regulatory networks (GRNs)
@@ -18,7 +18,7 @@ Compound Heat-Drought Stress in Brassica rapa
 ## 3. Network analysis
 1. From https://github.com/rlrq/HDstress
 1. Network dispersion analysis for GRN, keyGRN, and TF-TF network (Figure 5 and Supplemental Figure S14)
-1. Master regulatory nodes analysis (Figure 6 and Supplemental Figures S15, S16)
+1. Master regulatory nodes analysis (Supplemental Figures S15, S18)
 
 ## 4. Modified GO enrichment analysis of BLAST-mappable and -unmappable genes to A. thaliana orthologues
 1. From https://github.com/rlrq/HDstress
@@ -31,7 +31,7 @@ Compound Heat-Drought Stress in Brassica rapa
 1. Figure 3B and 4D, Supplemental Figure S4 and S12: GO hierarchy containing GO terms of interest by mapping higher level GO terms to lower level terms
 
 ## 6. Detect putative cis-regulatory elements (pCRE)
-1. Supplemental Figures S17 and S18: pCREs enriched in the target genes of a TF
+1. Supplemental Figures S16 and S17: pCREs enriched in the target genes of a TF
 1. Data
     1. install MEMEsuit and download motif database (https://meme-suite.org/meme/meme-software/)
 1. Scripts
@@ -42,3 +42,4 @@ Compound Heat-Drought Stress in Brassica rapa
 ## 7. Other plots
 1. Figure 3a: Significant GO terms for the four HD-responsive gene groups under treatment comparisons and accession comparisons
 1. Supplemental Figure S5: Mapped and unmapped genes by BLAST to A. thaliana genes
+
